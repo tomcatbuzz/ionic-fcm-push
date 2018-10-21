@@ -1,0 +1,7 @@
+{
+  "name": "ion-fcm-push",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
